@@ -47,12 +47,14 @@ function HomePage() {
         setError(null);
 
         const promises = masterPulauList.map((idPulau) =>
-          fetch(`/data/${idPulau}.json`).then((res) => {
-            if (!res.ok) {
-              throw new Error(`Gagal memuat /data/${idPulau}.json`);
+          fetch(`${import.meta.env.BASE_URL}data/${idPulau}.json`).then(
+            (res) => {
+              if (!res.ok) {
+                throw new Error(`Gagal memuat /data/${idPulau}.json`);
+              }
+              return res.json();
             }
-            return res.json();
-          })
+          )
         );
 
         const allData = await Promise.all(promises);

@@ -19,7 +19,10 @@ function JadwalPulauPage() {
         setError(null);
 
         // Ambil file JSON berdasarkan pulauId dari URL
-        const response = await fetch(`/data/${pulauId}.json`);
+        // MENJADI SEPERTI INI
+        const response = await fetch(
+          `${import.meta.env.BASE_URL}data/${pulauId}.json`
+        );
 
         if (!response.ok) {
           throw new Error(`Gagal memuat file JSON: ${response.statusText}`);

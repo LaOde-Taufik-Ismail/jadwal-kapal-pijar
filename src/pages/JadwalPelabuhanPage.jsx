@@ -49,7 +49,9 @@ function JadwalPelabuhanPage() {
       try {
         setLoading(true);
         // Penting: File di folder 'public' bisa di-fetch langsung dari root URL
-        const response = await fetch(`/data/${idPulau}.json`);
+        const response = await fetch(
+          `${import.meta.env.BASE_URL}data/${idPulau}.json`
+        );
 
         if (!response.ok) {
           throw new Error(`Gagal memuat file JSON: ${response.statusText}`);
