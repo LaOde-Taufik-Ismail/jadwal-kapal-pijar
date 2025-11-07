@@ -1,0 +1,312 @@
+{
+  "id_pulau": "pulau-binongko",
+  "nama_pulau": "Binongko",
+  "pelabuhan": [
+    {
+      "id_pelabuhan": "PLB-RUKUWA",
+      "nama_pelabuhan": "Pelabuhan Rukuwa",
+      "jadwal": [
+        {
+          "id_jadwal": "J201",
+          "hari": "SABTU",
+          "tanggal": "01/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J202",
+          "hari": "MINGGU",
+          "tanggal": "02/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J203",
+          "hari": "SENIN",
+          "tanggal": "03/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J204",
+          "hari": "SELASA",
+          "tanggal": "04/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J205",
+          "hari": "RABU",
+          "tanggal": "05/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J206",
+          "hari": "KAMIS",
+          "tanggal": "06/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J207",
+          "hari": "JUM'AT",
+          "tanggal": "07/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J208",
+          "hari": "SABTU",
+          "tanggal": "08/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J209",
+          "hari": "MINGGU",
+          "tanggal": "09/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J210",
+          "hari": "SENIN",
+          "tanggal": "10/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J211",
+          "hari": "SELASA",
+          "tanggal": "11/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J212",
+          "hari": "RABU",
+          "tanggal": "12/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J213",
+          "hari": "KAMIS",
+          "tanggal": "13/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J214",
+          "hari": "JUM'AT",
+          "tanggal": "14/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J215",
+          "hari": "SABTU",
+          "tanggal": "15/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J216",
+          "hari": "MINGGU",
+          "tanggal": "16/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J217",
+          "hari": "SENIN",
+          "tanggal": "17/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J218",
+          "hari": "SELASA",
+          "tanggal": "18/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J219",
+          "hari": "RABU",
+          "tanggal": "19/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J220",
+          "hari": "KAMIS",
+          "tanggal": "20/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J221",
+          "hari": "JUM'AT",
+          "tanggal": "21/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J222",
+          "hari": "SABTU",
+          "tanggal": "22/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J223",
+          "hari": "MINGGU",
+          "tanggal": "23/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J224",
+          "hari": "SENIN",
+          "tanggal": "24/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J225",
+          "hari": "SELASA",
+          "tanggal": "25/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J226",
+          "hari": "RABU",
+          "tanggal": "26/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J227",
+          "hari": "KAMIS",
+          "tanggal": "27/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J228",
+          "hari": "JUM'AT",
+          "tanggal": "28/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J229",
+          "hari": "SABTU",
+          "tanggal": "29/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        },
+        {
+          "id_jadwal": "J230",
+          "hari": "MINGGU",
+          "tanggal": "30/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "BINONGKO - TOMIA - WANCI",
+          "keterangan": "PEL. RUKUWA"
+        }
+      ]
+    }
+  ]
+}

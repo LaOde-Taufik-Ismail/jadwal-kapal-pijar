@@ -1,0 +1,1877 @@
+{
+  "id_pulau": "pulau-wanci",
+  "nama_pulau": "Wanci",
+  "pelabuhan": [
+    {
+      "id_pelabuhan": "PLB-PATINGGU",
+      "nama_pelabuhan": "Pelabuhan Patinggu",
+      "jadwal": [
+        {
+          "id_jadwal": "J001",
+          "hari": "SABTU",
+          "tanggal": "01/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J002",
+          "hari": "MINGGU",
+          "tanggal": "02/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J003",
+          "hari": "SENIN",
+          "tanggal": "03/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J004",
+          "hari": "SELASA",
+          "tanggal": "04/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J005",
+          "hari": "RABU",
+          "tanggal": "05/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J006",
+          "hari": "KAMIS",
+          "tanggal": "06/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J007",
+          "hari": "JUM'AT",
+          "tanggal": "07/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J008",
+          "hari": "SABTU",
+          "tanggal": "08/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J009",
+          "hari": "MINGGU",
+          "tanggal": "09/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J010",
+          "hari": "SENIN",
+          "tanggal": "10/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J011",
+          "hari": "SELASA",
+          "tanggal": "11/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J012",
+          "hari": "RABU",
+          "tanggal": "12/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J013",
+          "hari": "KAMIS",
+          "tanggal": "13/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J014",
+          "hari": "JUM'AT",
+          "tanggal": "14/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J015",
+          "hari": "SABTU",
+          "tanggal": "15/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J016",
+          "hari": "MINGGU",
+          "tanggal": "16/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J017",
+          "hari": "SENIN",
+          "tanggal": "17/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J018",
+          "hari": "SELASA",
+          "tanggal": "18/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J019",
+          "hari": "RABU",
+          "tanggal": "19/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J020",
+          "hari": "KAMIS",
+          "tanggal": "20/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J021",
+          "hari": "JUM'AT",
+          "tanggal": "21/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J022",
+          "hari": "SABTU",
+          "tanggal": "22/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J023",
+          "hari": "MINGGU",
+          "tanggal": "23/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J024",
+          "hari": "SENIN",
+          "tanggal": "24/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J025",
+          "hari": "SELASA",
+          "tanggal": "25/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J026",
+          "hari": "RABU",
+          "tanggal": "26/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J027",
+          "hari": "KAMIS",
+          "tanggal": "27/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J028",
+          "hari": "JUM'AT",
+          "tanggal": "28/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J029",
+          "hari": "SABTU",
+          "tanggal": "29/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 02",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J030",
+          "hari": "MINGGU",
+          "tanggal": "30/11/2025",
+          "nama_kapal": "KM. FUNGKA EXPRESS 01",
+          "gt": 96,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - TOMIA - BINONGKO",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J031",
+          "hari": "SABTU",
+          "tanggal": "01/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J032",
+          "hari": "MINGGU",
+          "tanggal": "02/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J033",
+          "hari": "SENIN",
+          "tanggal": "03/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J034",
+          "hari": "SELASA",
+          "tanggal": "04/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J035",
+          "hari": "RABU",
+          "tanggal": "05/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J036",
+          "hari": "KAMIS",
+          "tanggal": "06/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J037",
+          "hari": "JUM'AT",
+          "tanggal": "07/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J038",
+          "hari": "SABTU",
+          "tanggal": "08/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J039",
+          "hari": "MINGGU",
+          "tanggal": "09/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J040",
+          "hari": "SENIN",
+          "tanggal": "10/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J041",
+          "hari": "SELASA",
+          "tanggal": "11/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J042",
+          "hari": "RABU",
+          "tanggal": "12/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J043",
+          "hari": "KAMIS",
+          "tanggal": "13/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J044",
+          "hari": "JUM'AT",
+          "tanggal": "14/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J045",
+          "hari": "SABTU",
+          "tanggal": "15/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J046",
+          "hari": "MINGGU",
+          "tanggal": "16/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J047",
+          "hari": "SENIN",
+          "tanggal": "17/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J048",
+          "hari": "SELASA",
+          "tanggal": "18/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J049",
+          "hari": "RABU",
+          "tanggal": "19/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J050",
+          "hari": "KAMIS",
+          "tanggal": "20/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J051",
+          "hari": "JUM'AT",
+          "tanggal": "21/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J052",
+          "hari": "SABTU",
+          "tanggal": "22/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J053",
+          "hari": "MINGGU",
+          "tanggal": "23/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J054",
+          "hari": "SENIN",
+          "tanggal": "24/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J055",
+          "hari": "SELASA",
+          "tanggal": "25/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J056",
+          "hari": "RABU",
+          "tanggal": "26/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J057",
+          "hari": "KAMIS",
+          "tanggal": "27/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J058",
+          "hari": "JUM'AT",
+          "tanggal": "28/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J059",
+          "hari": "SABTU",
+          "tanggal": "29/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        },
+        {
+          "id_jadwal": "J060",
+          "hari": "MINGGU",
+          "tanggal": "30/11/2025",
+          "nama_kapal": "KM. MANU - MANU KAINDEA",
+          "gt": 22,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - KALEDUPA",
+          "keterangan": "PEL. PATINGGU"
+        }
+      ]
+    },
+    {
+      "id_pelabuhan": "PLB-RAKYAT-WANCI",
+      "nama_pelabuhan": "Pelabuhan Rakyat Wanci",
+      "jadwal": [
+        {
+          "id_jadwal": "J101",
+          "hari": "SABTU",
+          "tanggal": "01/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J102",
+          "hari": "MINGGU",
+          "tanggal": "02/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J103",
+          "hari": "SENIN",
+          "tanggal": "03/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J104",
+          "hari": "SELASA",
+          "tanggal": "04/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J105",
+          "hari": "RABU",
+          "tanggal": "05/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J106",
+          "hari": "KAMIS",
+          "tanggal": "06/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J107",
+          "hari": "JUM'AT",
+          "tanggal": "07/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J108",
+          "hari": "SABTU",
+          "tanggal": "08/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J109",
+          "hari": "MINGGU",
+          "tanggal": "09/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J110",
+          "hari": "SENIN",
+          "tanggal": "10/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J111",
+          "hari": "SELASA",
+          "tanggal": "11/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J112",
+          "hari": "RABU",
+          "tanggal": "12/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J113",
+          "hari": "KAMIS",
+          "tanggal": "13/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J114",
+          "hari": "JUM'AT",
+          "tanggal": "14/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J115",
+          "hari": "SABTU",
+          "tanggal": "15/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J116",
+          "hari": "MINGGU",
+          "tanggal": "16/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J117",
+          "hari": "SENIN",
+          "tanggal": "17/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J118",
+          "hari": "SELASA",
+          "tanggal": "18/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J119",
+          "hari": "RABU",
+          "tanggal": "19/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J120",
+          "hari": "KAMIS",
+          "tanggal": "20/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J121",
+          "hari": "JUM'AT",
+          "tanggal": "21/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J122",
+          "hari": "SABTU",
+          "tanggal": "22/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J123",
+          "hari": "MINGGU",
+          "tanggal": "23/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J124",
+          "hari": "SENIN",
+          "tanggal": "24/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J125",
+          "hari": "SELASA",
+          "tanggal": "25/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J126",
+          "hari": "RABU",
+          "tanggal": "26/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J127",
+          "hari": "KAMIS",
+          "tanggal": "27/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J128",
+          "hari": "JUM'AT",
+          "tanggal": "28/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J129",
+          "hari": "SABTU",
+          "tanggal": "29/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J130",
+          "hari": "MINGGU",
+          "tanggal": "30/11/2025",
+          "nama_kapal": "KM. NATUNA EXPRESS",
+          "gt": 188,
+          "jam_berangkat": "08:00",
+          "rute": "WANCI - LASALIMU ( PP )",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J131",
+          "hari": "SABTU",
+          "tanggal": "01/11/2025",
+          "nama_kapal": "KM. NAPOLEON 777",
+          "gt": 698,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J132",
+          "hari": "MINGGU",
+          "tanggal": "02/11/2025",
+          "nama_kapal": "KM. SIMBA 1",
+          "gt": 801,
+          "jam_berangkat": "20:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J133",
+          "hari": "SENIN",
+          "tanggal": "03/11/2025",
+          "nama_kapal": "KM. ALSUDAIS 22",
+          "gt": 712,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J134",
+          "hari": "SELASA",
+          "tanggal": "04/11/2025",
+          "nama_kapal": "KM. NAPOLEON 777",
+          "gt": 698,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J135",
+          "hari": "RABU",
+          "tanggal": "05/11/2025",
+          "nama_kapal": "KM. SIMBA 1",
+          "gt": 801,
+          "jam_berangkat": "20:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J136",
+          "hari": "KAMIS",
+          "tanggal": "06/11/2025",
+          "nama_kapal": "KM. ALSUDAIS 22",
+          "gt": 712,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J137",
+          "hari": "SABTU",
+          "tanggal": "08/11/2025",
+          "nama_kapal": "KM. NAPOLEON 777",
+          "gt": 698,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J138",
+          "hari": "MINGGU",
+          "tanggal": "09/11/2025",
+          "nama_kapal": "KM. SIMBA 1",
+          "gt": 801,
+          "jam_berangkat": "20:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J139",
+          "hari": "SENIN",
+          "tanggal": "10/11/2025",
+          "nama_kapal": "KM. ALSUDAIS 22",
+          "gt": 712,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J140",
+          "hari": "SELASA",
+          "tanggal": "11/11/2025",
+          "nama_kapal": "KM. NAPOLEON 777",
+          "gt": 698,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J141",
+          "hari": "RABU",
+          "tanggal": "12/11/2025",
+          "nama_kapal": "KM. SIMBA 1",
+          "gt": 801,
+          "jam_berangkat": "20:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J142",
+          "hari": "KAMIS",
+          "tanggal": "13/11/2025",
+          "nama_kapal": "KM. ALSUDAIS 22",
+          "gt": 712,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J143",
+          "hari": "SABTU",
+          "tanggal": "15/11/2025",
+          "nama_kapal": "KM. NAPOLEON 777",
+          "gt": 698,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J144",
+          "hari": "MINGGU",
+          "tanggal": "16/11/2025",
+          "nama_kapal": "KM. SIMBA 1",
+          "gt": 801,
+          "jam_berangkat": "20:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J145",
+          "hari": "SENIN",
+          "tanggal": "17/11/2025",
+          "nama_kapal": "KM. ALSUDAIS 22",
+          "gt": 712,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J146",
+          "hari": "SELASA",
+          "tanggal": "18/11/2025",
+          "nama_kapal": "KM. NAPOLEON 777",
+          "gt": 698,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J147",
+          "hari": "RABU",
+          "tanggal": "19/11/2025",
+          "nama_kapal": "KM. SIMBA 1",
+          "gt": 801,
+          "jam_berangkat": "20:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J148",
+          "hari": "KAMIS",
+          "tanggal": "20/11/2025",
+          "nama_kapal": "KM. ALSUDAIS 22",
+          "gt": 712,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J149",
+          "hari": "SABTU",
+          "tanggal": "22/11/2025",
+          "nama_kapal": "KM. NAPOLEON 777",
+          "gt": 698,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J150",
+          "hari": "MINGGU",
+          "tanggal": "23/11/2025",
+          "nama_kapal": "KM. SIMBA 1",
+          "gt": 801,
+          "jam_berangkat": "20:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J151",
+          "hari": "SENIN",
+          "tanggal": "24/11/2025",
+          "nama_kapal": "KM. ALSUDAIS 22",
+          "gt": 712,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J152",
+          "hari": "SELASA",
+          "tanggal": "25/11/2025",
+          "nama_kapal": "KM. NAPOLEON 777",
+          "gt": 698,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J153",
+          "hari": "RABU",
+          "tanggal": "26/11/2025",
+          "nama_kapal": "KM. SIMBA 1",
+          "gt": 801,
+          "jam_berangkat": "20:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J154",
+          "hari": "KAMIS",
+          "tanggal": "27/11/2025",
+          "nama_kapal": "KM. ALSUDAIS 22",
+          "gt": 712,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J155",
+          "hari": "SABTU",
+          "tanggal": "29/11/2025",
+          "nama_kapal": "KM. NAPOLEON 777",
+          "gt": 698,
+          "jam_berangkat": "09:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYT WANCI"
+        },
+        {
+          "id_jadwal": "J156",
+          "hari": "MINGGU",
+          "tanggal": "30/11/2025",
+          "nama_kapal": "KM. SIMBA 1",
+          "gt": 801,
+          "jam_berangkat": "20:00",
+          "rute": "WANCI - KENDARI",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J601",
+          "hari": "MINGGU",
+          "tanggal": "09/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "WANCI - BAU BAU",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J602",
+          "hari": "SELASA",
+          "tanggal": "11/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "WANCI - BAU BAU",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J603",
+          "hari": "KAMIS",
+          "tanggal": "13/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "WANCI - BAU BAU",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J604",
+          "hari": "MINGGU",
+          "tanggal": "16/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "WANCI - BAU BAU",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J605",
+          "hari": "SELASA",
+          "tanggal": "18/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "WANCI - BAU BAU",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J606",
+          "hari": "KAMIS",
+          "tanggal": "20/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "WANCI - BAU BAU",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J607",
+          "hari": "MINGGU",
+          "tanggal": "23/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "WANCI - BAU BAU",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J608",
+          "hari": "SELASA",
+          "tanggal": "25/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "WANCI - BAU BAU",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J609",
+          "hari": "KAMIS",
+          "tanggal": "27/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "WANCI - BAU BAU",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J610",
+          "hari": "MINGGU",
+          "tanggal": "30/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "WANCI - BAU BAU",
+          "keterangan": "Pel. Rakyat Wanci"
+        }, {
+          "id_jadwal": "J901",
+          "hari": "SABTU",
+          "tanggal": "01/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J902",
+          "hari": "MINGGU",
+          "tanggal": "02/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J903",
+          "hari": "SENIN",
+          "tanggal": "03/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J904",
+          "hari": "SELASA",
+          "tanggal": "04/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J905",
+          "hari": "RABU",
+          "tanggal": "05/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J906",
+          "hari": "KAMIS",
+          "tanggal": "06/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J907",
+          "hari": "JUM'AT",
+          "tanggal": "07/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J908",
+          "hari": "SABTU",
+          "tanggal": "08/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J909",
+          "hari": "MINGGU",
+          "tanggal": "09/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J910",
+          "hari": "SENIN",
+          "tanggal": "10/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J911",
+          "hari": "SELASA",
+          "tanggal": "11/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J912",
+          "hari": "RABU",
+          "tanggal": "12/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J913",
+          "hari": "KAMIS",
+          "tanggal": "13/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J914",
+          "hari": "JUM'AT",
+          "tanggal": "14/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J915",
+          "hari": "SABTU",
+          "tanggal": "15/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J916",
+          "hari": "MINGGU",
+          "tanggal": "16/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J917",
+          "hari": "SENIN",
+          "tanggal": "17/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J918",
+          "hari": "SELASA",
+          "tanggal": "18/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J919",
+          "hari": "RABU",
+          "tanggal": "19/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J920",
+          "hari": "KAMIS",
+          "tanggal": "20/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J921",
+          "hari": "JUM'AT",
+          "tanggal": "21/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J922",
+          "hari": "SABTU",
+          "tanggal": "22/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J923",
+          "hari": "MINGGU",
+          "tanggal": "23/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J924",
+          "hari": "SENIN",
+          "tanggal": "24/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J925",
+          "hari": "SELASA",
+          "tanggal": "25/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J926",
+          "hari": "RABU",
+          "tanggal": "26/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J927",
+          "hari": "KAMIS",
+          "tanggal": "27/1NET/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J928",
+          "hari": "JUM'AT",
+          "tanggal": "28/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J929",
+          "hari": "SABTU",
+          "tanggal": "29/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J930",
+          "hari": "MINGGU",
+          "tanggal": "30/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "09:00",
+          "rute": "Wanci-Pasarwajo",
+          "keterangan": "Pel. Rakyat Wanci"
+        },
+        {
+          "id_jadwal": "J1101",
+          "hari": "SABTU",
+          "tanggal": "01/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1102",
+          "hari": "MINGGU",
+          "tanggal": "02/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1103",
+          "hari": "SENIN",
+          "tanggal": "03/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1104",
+          "hari": "SELASA",
+          "tanggal": "04/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1105",
+          "hari": "RABU",
+          "tanggal": "05/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1106",
+          "hari": "KAMIS",
+          "tanggal": "06/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1107",
+          "hari": "JUM'AT",
+          "tanggal": "07/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1108",
+          "hari": "SABTU",
+          "tanggal": "08/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1109",
+          "hari": "MINGGU",
+          "tanggal": "09/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1110",
+          "hari": "SENIN",
+          "tanggal": "10/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1111",
+          "hari": "SELASA",
+          "tanggal": "11/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1112",
+          "hari": "RABU",
+          "tanggal": "12/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1113",
+          "hari": "KAMIS",
+          "tanggal": "13/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1114",
+          "hari": "JUM'AT",
+          "tanggal": "14/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1115",
+          "hari": "SABTU",
+          "tanggal": "15/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1116",
+          "hari": "MINGGU",
+          "tanggal": "16/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1117",
+          "hari": "SENIN",
+          "tanggal": "17/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1118",
+          "hari": "SELASA",
+          "tanggal": "18/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1119",
+          "hari": "RABU",
+          "tanggal": "19/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1120",
+          "hari": "KAMIS",
+          "tanggal": "20/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1121",
+          "hari": "JUM'AT",
+          "tanggal": "21/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1122",
+          "hari": "SABTU",
+          "tanggal": "22/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1123",
+          "hari": "MINGGU",
+          "tanggal": "23/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1124",
+          "hari": "SENIN",
+          "tanggal": "24/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1125",
+          "hari": "SELASA",
+          "tanggal": "25/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1126",
+          "hari": "RABU",
+          "tanggal": "26/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1127",
+          "hari": "KAMIS",
+          "tanggal": "27/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1128",
+          "hari": "JUM'AT",
+          "tanggal": "28/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1129",
+          "hari": "SABTU",
+          "tanggal": "29/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        },
+        {
+          "id_jadwal": "J1130",
+          "hari": "MINGGU",
+          "tanggal": "30/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "11:00",
+          "rute": "Wanci-Kaledupa",
+          "keterangan": "PEL. RAKYAT WANCI"
+        }
+      ]
+    }
+  ]
+}

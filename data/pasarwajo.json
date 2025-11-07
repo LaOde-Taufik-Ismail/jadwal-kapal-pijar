@@ -1,0 +1,312 @@
+{
+  "id_pulau": "pulau-pasarwajo",
+  "nama_pulau": "Pasarwajo",
+  "pelabuhan": [
+    {
+      "id_pelabuhan": "PLB-PASARWAJO",
+      "nama_pelabuhan": "Pelabuhan Pasarwajo",
+      "jadwal": [
+        {
+          "id_jadwal": "J1001",
+          "hari": "SABTU",
+          "tanggal": "01/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1002",
+          "hari": "MINGGU",
+          "tanggal": "02/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1003",
+          "hari": "SENIN",
+          "tanggal": "03/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1004",
+          "hari": "SELASA",
+          "tanggal": "04/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1005",
+          "hari": "RABU",
+          "tanggal": "05/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1006",
+          "hari": "KAMIS",
+          "tanggal": "06/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1007",
+          "hari": "JUM'AT",
+          "tanggal": "07/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1008",
+          "hari": "SABTU",
+          "tanggal": "08/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1009",
+          "hari": "MINGGU",
+          "tanggal": "09/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1010",
+          "hari": "SENIN",
+          "tanggal": "10/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1011",
+          "hari": "SELASA",
+          "tanggal": "11/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1012",
+          "hari": "RABU",
+          "tanggal": "12/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1013",
+          "hari": "KAMIS",
+          "tanggal": "13/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1014",
+          "hari": "JUM'AT",
+          "tanggal": "14/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1015",
+          "hari": "SABTU",
+          "tanggal": "15/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1016",
+          "hari": "MINGGU",
+          "tanggal": "16/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1017",
+          "hari": "SENIN",
+          "tanggal": "17/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1018",
+          "hari": "SELASA",
+          "tanggal": "18/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1019",
+          "hari": "RABU",
+          "tanggal": "19/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1020",
+          "hari": "KAMIS",
+          "tanggal": "20/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1021",
+          "hari": "JUM'AT",
+          "tanggal": "21/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1022",
+          "hari": "SABTU",
+          "tanggal": "22/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1023",
+          "hari": "MINGGU",
+          "tanggal": "23/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1024",
+          "hari": "SENIN",
+          "tanggal": "24/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1025",
+          "hari": "SELASA",
+          "tanggal": "25/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1026",
+          "hari": "RABU",
+          "tanggal": "26/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1027",
+          "hari": "KAMIS",
+          "tanggal": "27/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1028",
+          "hari": "JUM'AT",
+          "tanggal": "28/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1029",
+          "hari": "SABTU",
+          "tanggal": "29/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        },
+        {
+          "id_jadwal": "J1030",
+          "hari": "MINGGU",
+          "tanggal": "30/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 224,
+          "jam_berangkat": "07:30",
+          "rute": "PASARWAJO, WNCI, KLDP",
+          "keterangan": "PEL. PASARWAJO"
+        }
+      ]
+    }
+  ]
+}

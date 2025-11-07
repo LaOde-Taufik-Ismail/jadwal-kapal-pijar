@@ -1,0 +1,612 @@
+{
+  "id_pulau": "pulau-tomia",
+  "nama_pulau": "Tomia",
+  "pelabuhan": [
+    {
+      "id_pelabuhan": "PLB-FERI-TOMIA",
+      "nama_pelabuhan": "PELABUHAN FERI TOMIA",
+      "jadwal": [
+        {
+    "id_jadwal": "J401",
+    "hari": "SABTU",
+    "tanggal": "01/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J402",
+    "hari": "MINGGU",
+    "tanggal": "02/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J403",
+    "hari": "SENIN",
+    "tanggal": "03/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J404",
+    "hari": "SELASA",
+    "tanggal": "04/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J405",
+    "hari": "RABU",
+    "tanggal": "05/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J406",
+    "hari": "KAMIS",
+    "tanggal": "06/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J407",
+    "hari": "JUM'AT",
+    "tanggal": "07/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J408",
+    "hari": "SABTU",
+    "tanggal": "08/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J409",
+    "hari": "MINGGU",
+    "tanggal": "09/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J410",
+    "hari": "SENIN",
+    "tanggal": "10/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J411",
+    "hari": "SELASA",
+    "tanggal": "11/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J412",
+    "hari": "RABU",
+    "tanggal": "12/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J413",
+    "hari": "KAMIS",
+    "tanggal": "13/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J414",
+    "hari": "JUM'AT",
+    "tanggal": "14/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J415",
+    "hari": "SABTU",
+    "tanggal": "15/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J416",
+    "hari": "MINGGU",
+    "tanggal": "16/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J417",
+    "hari": "SENIN",
+    "tanggal": "17/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J418",
+    "hari": "SELASA",
+    "tanggal": "18/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J419",
+    "hari": "RABU",
+    "tanggal": "19/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J420",
+    "hari": "KAMIS",
+    "tanggal": "20/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J421",
+    "hari": "JUM'AT",
+    "tanggal": "21/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J422",
+    "hari": "SABTU",
+    "tanggal": "22/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J423",
+    "hari": "MINGGU",
+    "tanggal": "23/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J424",
+    "hari": "SENIN",
+    "tanggal": "24/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J425",
+    "hari": "SELASA",
+    "tanggal": "25/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J426",
+    "hari": "RABU",
+    "tanggal": "26/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J427",
+    "hari": "KAMIS",
+    "tanggal": "27/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J428",
+    "hari": "JUM'AT",
+    "tanggal": "28/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J429",
+    "hari": "SABTU",
+    "tanggal": "29/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J430",
+    "hari": "MINGGU",
+    "tanggal": "30/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "11:00",
+    "rute": "TOMIA-BINONGKO",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J501",
+    "hari": "SABTU",
+    "tanggal": "01/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J502",
+    "hari": "MINGGU",
+    "tanggal": "02/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J503",
+    "hari": "SENIN",
+    "tanggal": "03/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J504",
+    "hari": "SELASA",
+    "tanggal": "04/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J505",
+    "hari": "RABU",
+    "tanggal": "05/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J506",
+    "hari": "KAMIS",
+    "tanggal": "06/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J507",
+    "hari": "JUM'AT",
+    "tanggal": "07/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J508",
+    "hari": "SABTU",
+    "tanggal": "08/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J509",
+    "hari": "MINGGU",
+    "tanggal": "09/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J510",
+    "hari": "SENIN",
+    "tanggal": "10/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J511",
+    "hari": "SELASA",
+    "tanggal": "11/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J512",
+    "hari": "RABU",
+    "tanggal": "12/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J513",
+    "hari": "KAMIS",
+    "tanggal": "13/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J514",
+    "hari": "JUM'AT",
+    "tanggal": "14/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J515",
+    "hari": "SABTU",
+    "tanggal": "15/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J516",
+    "hari": "MINGGU",
+    "tanggal": "16/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J517",
+    "hari": "SENIN",
+    "tanggal": "17/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J518",
+    "hari": "SELASA",
+    "tanggal": "18/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J519",
+    "hari": "RABU",
+    "tanggal": "19/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J520",
+    "hari": "KAMIS",
+    "tanggal": "20/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J521",
+    "hari": "JUM'AT",
+    "tanggal": "21/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J522",
+    "hari": "SABTU",
+    "tanggal": "22/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J523",
+    "hari": "MINGGU",
+    "tanggal": "23/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J524",
+    "hari": "SENIN",
+    "tanggal": "24/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J525",
+    "hari": "SELASA",
+    "tanggal": "25/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J526",
+    "hari": "RABU",
+    "tanggal": "26/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J527",
+    "hari": "KAMIS",
+    "tanggal": "27/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J528",
+    "hari": "JUM'AT",
+    "tanggal": "28/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J529",
+    "hari": "SABTU",
+    "tanggal": "29/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 01",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  },
+  {
+    "id_jadwal": "J530",
+    "hari": "MINGGU",
+    "tanggal": "30/11/2025",
+    "nama_kapal": "KM. FUNGKA EXPRESS 02",
+    "gt": 96,
+    "jam_berangkat": "10:00",
+    "rute": "TOMIA-WANCI",
+    "keterangan": "PELABUHAN FERI TOMIA"
+  }
+      ]
+    }
+  ]
+}
