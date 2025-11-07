@@ -1,0 +1,35 @@
+name: Deploy to GitHub Pages
+
+# Pemicu: Jalankan setiap kali ada 'push' ke branch 'main'
+on:
+  push:
+    branches: [main]
+
+# Izinkan Action ini untuk menulis ke repo Anda (untuk membuat gh-pages branch)
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest # Gunakan server Linux
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4 # Ambil kode dari repo
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4 # Siapkan lingkungan Node.js
+        with:
+          node-version: 18 # Gunakan Node.js versi 18
+
+      - name: Install dependencies
+        run: npm install # Jalankan 'npm install'
+
+      - name: Build project
+        run: npm run build # Jalankan 'npm run build' (membuat folder 'dist')
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4 # Gunakan Action untuk deploy
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }} # Token rahasia (otomatis ada)
+          publish_dir: ./dist # Folder yang akan di-deploy
