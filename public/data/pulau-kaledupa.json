@@ -1,0 +1,612 @@
+{
+  "id_pulau": "pulau-kaledupa",
+  "nama_pulau": "Kaledupa",
+  "pelabuhan": [
+    {
+      "id_pelabuhan": "PLB-BURANGA",
+      "nama_pelabuhan": "Pelabuhan Buranga",
+      "jadwal": [
+        {
+          "id_jadwal": "J301",
+          "hari": "SABTU",
+          "tanggal": "01/11/2025",
+          "nama_kapal": "KM. BAHTERA LINGGA",
+          "gt": 88,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J302",
+          "hari": "MINGGU",
+          "tanggal": "02/11/2025",
+          "nama_kapal": "KM. PELING EXPRESS",
+          "gt": 57,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J303",
+          "hari": "SENIN",
+          "tanggal": "03/11/2025",
+          "nama_kapal": "KM. BAHTERA LINGGA",
+          "gt": 88,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J304",
+          "hari": "SELASA",
+          "tanggal": "04/11/2025",
+          "nama_kapal": "KM. PELING EXPRESS",
+          "gt": 57,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J305",
+          "hari": "RABU",
+          "tanggal": "05/11/2025",
+          "nama_kapal": "KM. BAHTERA LINGGA",
+          "gt": 88,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J306",
+          "hari": "KAMIS",
+          "tanggal": "06/11/2025",
+          "nama_kapal": "KM. PELING EXPRESS",
+          "gt": 57,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J307",
+          "hari": "JUM'AT",
+          "tanggal": "07/11/2025",
+          "nama_kapal": "KM. BAHTERA LINGGA",
+          "gt": 88,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J308",
+          "hari": "SABTU",
+          "tanggal": "08/11/2025",
+          "nama_kapal": "KM. PELING EXPRESS",
+          "gt": 57,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J309",
+          "hari": "MINGGU",
+          "tanggal": "09/11/2025",
+          "nama_kapal": "KM. BAHTERA LINGGA",
+          "gt": 88,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J310",
+          "hari": "SENIN",
+          "tanggal": "10/11/2025",
+          "nama_kapal": "KM. PELING EXPRESS",
+          "gt": 57,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J311",
+          "hari": "SELASA",
+          "tanggal": "11/11/2025",
+          "nama_kapal": "KM. BAHTERA LINGGA",
+          "gt": 88,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J312",
+          "hari": "RABU",
+          "tanggal": "12/11/2025",
+          "nama_kapal": "KM. PELING EXPRESS",
+          "gt": 57,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J313",
+          "hari": "KAMIS",
+          "tanggal": "13/11/2025",
+          "nama_kapal": "KM. BAHTERA LINGGA",
+          "gt": 88,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J314",
+          "hari": "JUM'AT",
+          "tanggal": "14/11/2025",
+          "nama_kapal": "KM. PELING EXPRESS",
+          "gt": 57,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J315",
+          "hari": "SABTU",
+          "tanggal": "15/11/2025",
+          "nama_kapal": "KM. BAHTERA LINGGA",
+          "gt": 88,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J316",
+          "hari": "MINGGU",
+          "tanggal": "16/11/2025",
+          "nama_kapal": "KM. PELING EXPRESS",
+          "gt": 57,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J317",
+          "hari": "SENIN",
+          "tanggal": "17/11/2025",
+          "nama_kapal": "KM. BAHTERA LINGGA",
+          "gt": 88,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J318",
+          "hari": "SELASA",
+          "tanggal": "18/11/2025",
+          "nama_kapal": "KM. PELING EXPRESS",
+          "gt": 57,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J319",
+          "hari": "RABU",
+          "tanggal": "19/11/2025",
+          "nama_kapal": "KM. BAHTERA LINGGA",
+          "gt": 88,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J320",
+          "hari": "KAMIS",
+          "tanggal": "20/11/2025",
+          "nama_kapal": "KM. PELING EXPRESS",
+          "gt": 57,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J321",
+          "hari": "JUM'AT",
+          "tanggal": "21/11/2025",
+          "nama_kapal": "KM. BAHTERA LINGGA",
+          "gt": 88,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J322",
+          "hari": "SABTU",
+          "tanggal": "22/11/2025",
+          "nama_kapal": "KM. PELING EXPRESS",
+          "gt": 57,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J323",
+          "hari": "MINGGU",
+          "tanggal": "23/11/2025",
+          "nama_kapal": "KM. BAHTERA LINGGA",
+          "gt": 88,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J324",
+          "hari": "SENIN",
+          "tanggal": "24/11/2025",
+          "nama_kapal": "KM. PELING EXPRESS",
+          "gt": 57,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J325",
+          "hari": "SELASA",
+          "tanggal": "25/11/2025",
+          "nama_kapal": "KM. BAHTERA LINGGA",
+          "gt": 88,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J326",
+          "hari": "RABU",
+          "tanggal": "26/11/2025",
+          "nama_kapal": "KM. PELING EXPRESS",
+          "gt": 57,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J327",
+          "hari": "KAMIS",
+          "tanggal": "27/11/2025",
+          "nama_kapal": "KM. BAHTERA LINGGA",
+          "gt": 88,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J328",
+          "hari": "JUM'AT",
+          "tanggal": "28/11/2025",
+          "nama_kapal": "KM. PELING EXPRESS",
+          "gt": 57,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J329",
+          "hari": "SABTU",
+          "tanggal": "29/11/2025",
+          "nama_kapal": "KM. BAHTERA LINGGA",
+          "gt": 88,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J330",
+          "hari": "MINGGU",
+          "tanggal": "30/11/2025",
+          "nama_kapal": "KM. PELING EXPRESS",
+          "gt": 57,
+          "jam_berangkat": "13:00",
+          "rute": "KALEDUPA - WANCI",
+          "keterangan": "PEL. BURANGA"
+        }, 
+        {
+          "id_jadwal": "J801",
+          "hari": "SABTU",
+          "tanggal": "01/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J802",
+          "hari": "MINGGU",
+          "tanggal": "02/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J803",
+          "hari": "SENIN",
+          "tanggal": "03/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J804",
+          "hari": "SELASA",
+          "tanggal": "04/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J805",
+          "hari": "RABU",
+          "tanggal": "05/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J806",
+          "hari": "KAMIS",
+          "tanggal": "06/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J807",
+          "hari": "JUM'AT",
+          "tanggal": "07/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J808",
+          "hari": "SABTU",
+          "tanggal": "08/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J809",
+          "hari": "MINGGU",
+          "tanggal": "09/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J810",
+          "hari": "SENIN",
+          "tanggal": "10/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J811",
+          "hari": "SELASA",
+          "tanggal": "11/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J812",
+          "hari": "RABU",
+          "tanggal": "12/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J813",
+          "hari": "KAMIS",
+          "tanggal": "13/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J814",
+          "hari": "JUM'AT",
+          "tanggal": "14/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J815",
+          "hari": "SABTU",
+          "tanggal": "15/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J816",
+          "hari": "MINGGU",
+          "tanggal": "16/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J817",
+          "hari": "SENIN",
+          "tanggal": "17/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J818",
+          "hari": "SELASA",
+          "tanggal": "18/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J819",
+          "hari": "RABU",
+          "tanggal": "19/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J820",
+          "hari": "KAMIS",
+          "tanggal": "20/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J821",
+          "hari": "JUM'AT",
+          "tanggal": "21/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J822",
+          "hari": "SABTU",
+          "tanggal": "22/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J823",
+          "hari": "MINGGU",
+          "tanggal": "23/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J824",
+          "hari": "SENIN",
+          "tanggal": "24/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J825",
+          "hari": "SELASA",
+          "tanggal": "25/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J826",
+          "hari": "RABU",
+          "tanggal": "26/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J827",
+          "hari": "KAMIS",
+          "tanggal": "27/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J828",
+          "hari": "JUM'AT",
+          "tanggal": "28/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J829",
+          "hari": "SABTU",
+          "tanggal": "29/11/2025",
+          "nama_kapal": "MV. BATAM JET 5",
+          "gt": 244,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        },
+        {
+          "id_jadwal": "J830",
+          "hari": "MINGGU",
+          "tanggal": "30/11/2025",
+          "nama_kapal": "MV. PACIVIC JETSTAR",
+          "gt": 220,
+          "jam_berangkat": "06:00",
+          "rute": "KLDP,WCI,PASARWAJO",
+          "keterangan": "PEL. BURANGA"
+        }
+      ]
+    }
+  ]
+}

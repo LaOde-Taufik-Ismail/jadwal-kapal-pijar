@@ -1,0 +1,112 @@
+{
+  "id_pulau": "baubau",
+  "nama_pulau": "Bau-Bau",
+  "pelabuhan": [
+    {
+      "id_pelabuhan": "PLB-JEMBATAN-BATU",
+      "nama_pelabuhan": "Pel. Jembatan Batu",
+      "jadwal": [
+        {
+          "id_jadwal": "J701",
+          "hari": "JUM'AT",
+          "tanggal": "07/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "BAU BAU - WANCI",
+          "keterangan": "Pel. Jembatan Batu"
+        },
+        {
+          "id_jadwal": "J702",
+          "hari": "SENIN",
+          "tanggal": "10/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "BAU BAU - WANCI",
+          "keterangan": "Pel. Jembatan Batu"
+        },
+        {
+          "id_jadwal": "J703",
+          "hari": "RABU",
+          "tanggal": "12/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "BAU BAU - WANCI",
+          "keterangan": "Pel. Jembatan Batu"
+        },
+        {
+          "id_jadwal": "J704",
+          "hari": "JUM'AT",
+          "tanggal": "14/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "BAU BAU - WANCI",
+          "keterangan": "Pel. Jembatan Batu"
+        },
+        {
+          "id_jadwal": "J705",
+          "hari": "SENIN",
+          "tanggal": "17/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "BAU BAU - WANCI",
+          "keterangan": "Pel. Jembatan Batu"
+        },
+        {
+          "id_jadwal": "J706",
+          "hari": "RABU",
+          "tanggal": "19/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "BAU BAU - WANCI",
+          "keterangan": "Pel. Jembatan Batu"
+        },
+        {
+          "id_jadwal": "J707",
+          "hari": "JUM'AT",
+          "tanggal": "21/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "BAU BAU - WANCI",
+          "keterangan": "Pel. Jembatan Batu"
+        },
+        {
+          "id_jadwal": "J708",
+          "hari": "SENIN",
+          "tanggal": "24/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "BAU BAU - WANCI",
+          "keterangan": "Pel. Jembatan Batu"
+        },
+        {
+          "id_jadwal": "J709",
+          "hari": "RABU",
+          "tanggal": "26/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "BAU BAU - WANCI",
+          "keterangan": "Pel. Jembatan Batu"
+        },
+        {
+          "id_jadwal": "J710",
+          "hari": "JUM'AT",
+          "tanggal": "28/11/2025",
+          "nama_kapal": "KM. SATRIA 99",
+          "gt": 290,
+          "jam_berangkat": "21:00",
+          "rute": "BAU BAU - WANCI",
+          "keterangan": "Pel. Jembatan Batu"
+        }
+      ]
+    }
+  ]
+}
