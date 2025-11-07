@@ -3,8 +3,6 @@ import HomePage from "./pages/HomePage.jsx";
 import JadwalPelabuhanPage from "./pages/JadwalPelabuhanPage.jsx";
 import JadwalPulauPage from "./pages/JadwalPulauPage.jsx";
 
-const NAMA_REPO = "jadwal-kapal-pijar";
-
 // Mendefinisikan URL mana yang akan menampilkan halaman mana.
 const router = createBrowserRouter(
   [
@@ -21,7 +19,7 @@ const router = createBrowserRouter(
       element: <JadwalPulauPage />,
     },
   ],
-  { basename: `/${NAMA_REPO}/` }
+  { basename: `/jadwal-kapal-pijar/` }
 );
 
 function App() {
