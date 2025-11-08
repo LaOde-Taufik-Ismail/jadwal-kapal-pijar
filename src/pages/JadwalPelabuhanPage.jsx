@@ -8,11 +8,10 @@ import JadwalItem from "../components/JadwalItem";
 const pelabuhanMap = {
   "PLB-PATINGGU": "pulau-wanci",
   "PLB-RAKYAT-WANCI": "pulau-wanci",
-  "PLB-RUKUWA": "pulau-binongko",
   "PLB-BURANGA": "pulau-kaledupa",
-  "PLB-FERI-TOMIA": "pulau-tomia",
+  "PLB-RUKUWA": "pulau-binongko",
   "PLB-JEMBATAN-BATU": "bau-bau",
-  "PLB-PASARWAJO": "pasarwajo", // Tambahkan pelabuhan lain di sini
+  "PLB-PASARWAJO": "pasarwajo",
 };
 
 const getTodayDateString = () => {
