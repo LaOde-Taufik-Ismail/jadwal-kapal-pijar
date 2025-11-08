@@ -14,8 +14,8 @@ const masterPulauList = [
   "pulau-binongko",
   "pulau-kaledupa",
   "pulau-tomia",
-  "bau-bau",
-  "pasarwajo",
+  "pulau-bau-bau",
+  "pulau-pasarwajo",
 ];
 // ----------------------------
 

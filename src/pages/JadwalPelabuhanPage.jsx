@@ -10,8 +10,8 @@ const pelabuhanMap = {
   "PLB-RAKYAT-WANCI": "pulau-wanci",
   "PLB-BURANGA": "pulau-kaledupa",
   "PLB-RUKUWA": "pulau-binongko",
-  "PLB-JEMBATAN-BATU": "bau-bau",
-  "PLB-PASARWAJO": "pasarwajo",
+  "PLB-JEMBATAN-BATU": "pulau-bau-bau",
+  "PLB-PASARWAJO": "pulau-pasarwajo",
 };
 
 const getTodayDateString = () => {
