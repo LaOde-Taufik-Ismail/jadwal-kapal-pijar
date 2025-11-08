@@ -10,7 +10,7 @@ const pelabuhanMap = {
   "PLB-RAKYAT-WANCI": "pulau-wanci",
   "PLB-BURANGA": "pulau-kaledupa",
   "PLB-RUKUWA": "pulau-binongko",
-  "PLB-JEMBATAN-BATU": "pulau-baubau",
+  "PLB-MURHUM": "pulau-baubau",
   "PLB-PASARWAJO": "pulau-pasarwajo",
 };
 
