@@ -3,8 +3,8 @@
   "nama_pulau": "Bau-Bau",
   "pelabuhan": [
     {
-      "id_pelabuhan": "PLB-JEMBATAN-BATU",
-      "nama_pelabuhan": "Pel. Jembatan Batu",
+      "id_pelabuhan": "PLB-MURHUM",
+      "nama_pelabuhan": "Pelabuhan Murhum",
       "jadwal": [
         {
           "id_jadwal": "J701",
@@ -14,7 +14,7 @@
           "gt": 290,
           "jam_berangkat": "21:00",
           "rute": "BAU BAU - WANCI",
-          "keterangan": "Pel. Jembatan Batu"
+          "keterangan": "Pelabuhan Murhum"
         },
         {
           "id_jadwal": "J702",
@@ -24,7 +24,7 @@
           "gt": 290,
           "jam_berangkat": "21:00",
           "rute": "BAU BAU - WANCI",
-          "keterangan": "Pel. Jembatan Batu"
+          "keterangan": "Pelabuhan Murhum"
         },
         {
           "id_jadwal": "J703",
@@ -34,7 +34,7 @@
           "gt": 290,
           "jam_berangkat": "21:00",
           "rute": "BAU BAU - WANCI",
-          "keterangan": "Pel. Jembatan Batu"
+          "keterangan": "Pelabuhan Murhum"
         },
         {
           "id_jadwal": "J704",
@@ -44,7 +44,7 @@
           "gt": 290,
           "jam_berangkat": "21:00",
           "rute": "BAU BAU - WANCI",
-          "keterangan": "Pel. Jembatan Batu"
+          "keterangan": "Pelabuhan Murhum"
         },
         {
           "id_jadwal": "J705",
@@ -54,7 +54,7 @@
           "gt": 290,
           "jam_berangkat": "21:00",
           "rute": "BAU BAU - WANCI",
-          "keterangan": "Pel. Jembatan Batu"
+          "keterangan": "Pelabuhan Murhum"
         },
         {
           "id_jadwal": "J706",
@@ -64,7 +64,7 @@
           "gt": 290,
           "jam_berangkat": "21:00",
           "rute": "BAU BAU - WANCI",
-          "keterangan": "Pel. Jembatan Batu"
+          "keterangan": "Pelabuhan Murhum"
         },
         {
           "id_jadwal": "J707",
@@ -74,7 +74,7 @@
           "gt": 290,
           "jam_berangkat": "21:00",
           "rute": "BAU BAU - WANCI",
-          "keterangan": "Pel. Jembatan Batu"
+          "keterangan": "Pelabuhan Murhum"
         },
         {
           "id_jadwal": "J708",
@@ -84,7 +84,7 @@
           "gt": 290,
           "jam_berangkat": "21:00",
           "rute": "BAU BAU - WANCI",
-          "keterangan": "Pel. Jembatan Batu"
+          "keterangan": "Pelabuhan Murhum"
         },
         {
           "id_jadwal": "J709",
@@ -94,7 +94,7 @@
           "gt": 290,
           "jam_berangkat": "21:00",
           "rute": "BAU BAU - WANCI",
-          "keterangan": "Pel. Jembatan Batu"
+          "keterangan": "Pelabuhan Murhum"
         },
         {
           "id_jadwal": "J710",
@@ -104,7 +104,7 @@
           "gt": 290,
           "jam_berangkat": "21:00",
           "rute": "BAU BAU - WANCI",
-          "keterangan": "Pel. Jembatan Batu"
+          "keterangan": "Pelabuhan Murhum"
         }
       ]
     }
