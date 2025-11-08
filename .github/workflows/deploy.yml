@@ -5,7 +5,7 @@ on:
   push:
     branches: [main]
 
-# Izinkan Action ini untuk menulis ke repo Anda (untuk membuat gh-pages branch)
+# Izinkan Action ini untuk menulis ke repo Anda
 permissions:
   contents: write
 
@@ -20,13 +20,19 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4 # Siapkan lingkungan Node.js
         with:
-          node-version: 18 # Gunakan Node.js versi 18
+          node-version: 18
 
       - name: Install dependencies
         run: npm install # Jalankan 'npm install'
 
       - name: Build project
         run: npm run build # Jalankan 'npm run build' (membuat folder 'dist')
+
+      # --- TAMBAHKAN LANGKAH INI ---
+      # Ini menyalin index.html menjadi 404.html untuk mengatasi routing React
+      - name: Create 404.html for React Router
+        run: cp ./dist/index.html ./dist/404.html
+      # --------------------------------
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4 # Gunakan Action untuk deploy
